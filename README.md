@@ -1,6 +1,6 @@
 #  Exercícios de Pensamento Computacional
 
-Este repositório contém os exercícios desenvolvidos na **CP3 (Checkpoint 3)** da disciplina de **Pensamento Computacional e Automação com Python**, parte do curso de **Ciência da Computação na FIAP**.
+Este repositório contém os projetos que usam estruturas de repetição.
 
 ##  Arquivos
 
@@ -29,9 +29,9 @@ cd Esturutra-de-Repeticao-Vetores-e-Matrizes
 Execute os scripts com:
 
 ```bash
-python media_alunos_cp3.py
-python temperaturas_cp3.py
-python soma_impares_divisiveis_cp3.py
+python media_alunos.py
+python temperaturas.py
+python soma_impares_divisiveis.py
 ```
 
 ## Autor
