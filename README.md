@@ -1,4 +1,4 @@
-#  CP3 – Exercícios de Pensamento Computacional
+#  Exercícios de Pensamento Computacional
 
 Este repositório contém os exercícios desenvolvidos na **CP3 (Checkpoint 3)** da disciplina de **Pensamento Computacional e Automação com Python**, parte do curso de **Ciência da Computação na FIAP**.
 
