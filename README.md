@@ -8,7 +8,7 @@ Este repositório contém os projetos que usam estruturas de repetição.
 |--------------------------------|---------------------------------------------------------------------------|
 | `media_alunos_cp3.py`          | Solicita nomes e notas dos alunos, calcula a média geral, maior, menor e conta quantos ficaram acima da média. |
 | `temperaturas_cp3.py`          | Recebe temperaturas semanais (3 semanas, 4 dias cada), calcula médias, maior, menor e a média geral.            |
-| `soma_impares_divisiveis_cp3.py` | Soma os números ímpares até um valor informado e conta os pares divisíveis por 3 nesse intervalo.              |
+| `soma_impares_divisiveis_cp3.py` | Soma os números ímpares até um valor informado e conta os pares divisíveis por 3 nesse intervalo.             |
 
 ##  Objetivos
 
